@@ -15,9 +15,9 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: ityouknow/cai.github.io
-github_url: https://github.com/cai
-url: http://www.cai.com
+repository: ityouknow/biggodcai.github.io
+github_url: https://github.com/biggodcai
+url: http://www.biggodcai.com
 enforce_ssl: ityouknow.com
 
 ## Gem
